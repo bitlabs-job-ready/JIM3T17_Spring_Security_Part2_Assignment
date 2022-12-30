@@ -1,0 +1,7 @@
+1. Implement a basic login API that allows users to log in with a username and password, and displays a welcome message upon successful login.
+
+2. A to-do list application that allows users to create and manage a list of tasks, with authentication and authorization to ensure that only the user who created a task can edit or delete it.
+
+Note: create a Maven project in Eclipse or STS Ide and push it to github.
+
+All the best!
